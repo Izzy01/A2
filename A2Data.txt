@@ -1,0 +1,8 @@
+Myjob 66
+Junk   17
+Fun    25
+Important   96
+Vital       99
+MoreFun    28
+Work      69
+Assignment  44
